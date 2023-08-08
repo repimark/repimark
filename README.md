@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @repimark
-- 👀 I’m interested in Frontend and Backend web development
-- 🌱 I’m currently learning NodeJs && Laravel && ReactJS && K8S basics
+<!--- 👀 I’m interested in Frontend and Backend web development--->
+<!-- - 🌱 I’m currently learning NodeJs && Laravel && ReactJS && K8S basics--->
 
 
 <!---
